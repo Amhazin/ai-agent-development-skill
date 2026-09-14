@@ -62,7 +62,7 @@ planning/
 ├── demo/
 │   └── SKILL.md
 ├── docs/
-│   └── architecture.md
+│   └── overview.md
 └── examples/
     └── example-workflow.md
 ```
